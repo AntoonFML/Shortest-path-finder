@@ -1,4 +1,3 @@
-// TP2024 - Projekt 1, ACiR gr.2, Antoni Rumowski nr 193087, Marek Marcinko nr 197870
 #include <iomanip>
 #include <iostream>
 #include <ctime>
