@@ -1,0 +1,1 @@
+A C++ project that was made as a university project aimed at learning basic data structures. It finds the shortest path from a starting point to an endpoint in a randomly generated warehouse using an implementation of the BFS algorithm.
